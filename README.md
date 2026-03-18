@@ -90,4 +90,4 @@ This project simulates a real-world business scenario:
 
 ## 👨‍💻 Author
 
-MSc Data Science Graduate with a focus on machine learning and real-world data applications.
+Njinju Zilefac Fogap.
